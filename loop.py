@@ -1,3 +1,2 @@
-fruits = ["apple " ,"peach" , "pearl"]
-for fruit in fruits :
-    print(fruit + " babe ")
+fruits = [10 ,30 , 10 , 20, 30 ]
+total_fruit = sum(fruits)
