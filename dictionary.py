@@ -4,4 +4,8 @@ programing__language= {
     123:"java is a high level programming language",
     "C++" : "C++ is a high level programming language"
 }
-print(programing__language[123])
+
+
+for key in programing__language :
+    print(key)
+    print(programing__language[key])
